@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/3-column-preview/static/css/main.8a9ede45.css",
+    "main.js": "/3-column-preview/static/js/main.d54acb31.js",
+    "static/media/BigShouldersDisplay-Bold.ttf": "/3-column-preview/static/media/BigShouldersDisplay-Bold.1a12e8e471916d60c1bf.ttf",
+    "static/media/LexendDeca-Regular.ttf": "/3-column-preview/static/media/LexendDeca-Regular.03da79138eceb612e36c.ttf",
+    "static/media/icon-luxury.svg": "/3-column-preview/static/media/icon-luxury.7d6e1aefdc39c4742fbb039e7f97a503.svg",
+    "static/media/icon-suvs.svg": "/3-column-preview/static/media/icon-suvs.058b664c311101933ebda84111ddd9b6.svg",
+    "static/media/icon-sedans.svg": "/3-column-preview/static/media/icon-sedans.e794502801c486bcffc3513f6f03141e.svg",
+    "index.html": "/3-column-preview/index.html",
+    "main.8a9ede45.css.map": "/3-column-preview/static/css/main.8a9ede45.css.map",
+    "main.d54acb31.js.map": "/3-column-preview/static/js/main.d54acb31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a9ede45.css",
+    "static/js/main.d54acb31.js"
+  ]
+}
